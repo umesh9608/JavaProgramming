@@ -4,7 +4,7 @@ calculates its factorial using a while loop.
 Hint:
  Initialize a factorial variable to 1.
  Use a while loop to multiply the factorial variable by each number down to 1. */
-package assignment4;
+package Assignment4;
 import java.util.Scanner;
  class FactorialOfNumber {
      public static void main(String[] args) {

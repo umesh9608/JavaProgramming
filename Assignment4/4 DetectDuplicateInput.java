@@ -5,7 +5,7 @@ Hint:
   Use a HashSet to store unique numbers.
   In each iteration of the while loop, check if the number is already in the set.
   If it is a duplicate, terminate the loop; otherwise, add it to the set.*/
-package assignment4;
+package Assignment4;
 import java.util.Scanner;
 import java.util.HashSet;  //also use HashSet package
  class DetectDuplicateInput {

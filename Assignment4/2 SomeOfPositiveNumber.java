@@ -5,7 +5,7 @@
 //  Use a while loop to repeatedly prompt the user for input.
 //  Add only the positive integers to a sum variable.
 //  Terminate the loop when the user inputs 0.
-package assignment4;
+package Assignment4;
 import java.util.Scanner;
  class SomeOfPositiveNumber {
      public static void main(String[] args) {

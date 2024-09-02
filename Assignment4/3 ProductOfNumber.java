@@ -4,7 +4,7 @@ while loop.
 Hint:
  Initialize a product variable to 1.
  Use a while loop to multiply the product variable by each number from 1 to 5. */
-package assignment4;
+package Assignment4;
 
  class ProductOfNumber {
     public static void main(String[] args) {

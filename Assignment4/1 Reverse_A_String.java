@@ -4,7 +4,7 @@
 // Use the charAt() method to access characters in the string.
 // Iterate through the string from the last character to the first and build the reversed string.
 // You can also explore using the StringBuilder class and its reverse() method
-package assignment4;
+package Assignment4;
 
 import java.util.Scanner;
 
