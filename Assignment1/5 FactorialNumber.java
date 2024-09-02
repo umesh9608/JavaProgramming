@@ -1,7 +1,7 @@
-package Assignment1;
 //: Write a Java program to find the factorial of a number entered by the user.
+package Assignment1;
 import java.util.Scanner;
-public class fifth {
+ class FactorialNumber {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

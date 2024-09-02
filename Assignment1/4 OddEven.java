@@ -1,7 +1,8 @@
-package Assignment1;
 //: Write a Java program that checks if a number entered by the user is even or odd
+package Assignment1;
+
 import java.util.Scanner;
-public class fourth {
+class OddEven {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

@@ -1,9 +1,8 @@
+//Write a Java program to multiply two numbers entered by the user and display the result.
 package Assignment1;
 
 import java.util.Scanner;
-
-//Write a Java program to multiply two numbers entered by the user and display the result.
-public class sixth {
+ class Multiply {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -1,6 +1,6 @@
 package Assignment1;
 
-public class second {
+ class AddTwoNumber {
     public static void main(String[] args) {
         int a=5;
         int b=10;

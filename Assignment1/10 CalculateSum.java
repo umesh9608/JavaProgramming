@@ -1,9 +1,10 @@
+//Description: Write a Java program that takes a number as input and calculates the sum of its digits.
 package Assignment1;
 
 import java.util.Scanner;
 
-//Description: Write a Java program that takes a number as input and calculates the sum of its digits.
-public class ten {
+
+ class CalculateSum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

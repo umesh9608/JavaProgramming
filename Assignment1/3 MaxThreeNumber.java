@@ -1,6 +1,9 @@
+/*  Find Maximum of Three Numbers
+Description: Write a Java program to find the maximum of three numbers entered by the
+user.  */
 package Assignment1;
 
-public class third {
+ class MaxThreeNumber {
 
         public static void main(String[] args) {
             int a=10;

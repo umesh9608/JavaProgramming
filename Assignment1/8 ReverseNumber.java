@@ -1,9 +1,7 @@
-package Assignment1;
-
-import java.util.Scanner;
-
 //find the reverse no in java
-public class eight {
+package Assignment1;
+import java.util.Scanner;
+ class ReverseNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

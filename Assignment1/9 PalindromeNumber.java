@@ -3,7 +3,7 @@ package Assignment;
 import java.util.Scanner;
 
 // Check palindrome number
-public class nine {
+ class PalindromeNumber {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);  //scanner obj to read input from the user
