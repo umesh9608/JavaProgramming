@@ -14,28 +14,11 @@ import java.util.HashSet;
 
     public static void main(String[] args) {
        //create a HashSet object
-        HashSet<Integer> numbers = new HashSet<Integer>();
+        HashSet<Integer> numbers = new HashSet();
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter No: ");
         int num = scanner.nextInt();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         numbers.add(4);
         numbers.add(5);
@@ -48,9 +31,5 @@ import java.util.HashSet;
                 System.out.println(i + " was not found in the set.");
             }
         }
-
-
-
-
     }
 }
